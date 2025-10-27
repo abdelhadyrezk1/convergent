@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1761515327219,
+      "tag": "0000_aromatic_talisman",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1761515380802,
+      "tag": "0001_plain_ben_grimm",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1761519765299,
+      "tag": "0002_tearful_sharon_ventura",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1761519920235,
+      "tag": "0003_thin_iceman",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1761521863921,
+      "tag": "0004_lethal_dark_phoenix",
+      "breakpoints": true
+    }
+  ]
+}
